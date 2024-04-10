@@ -31,4 +31,4 @@ class playerStatus extends player {
 // obj.setHeight = 167
 // console.log(`New Height : ${obj.getHeight}`)
 
-const obj = new playerStatus(153, 67, false, "male")
+const obj1 = new playerStatus(153, 67, false, "male")
