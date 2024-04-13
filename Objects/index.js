@@ -25,4 +25,5 @@ var obj3 = {
         return n + m;
     },
 };
-console.log(obj3.func(10, 20));
+// console.log(obj3.func(10, 20))
+var user = {};

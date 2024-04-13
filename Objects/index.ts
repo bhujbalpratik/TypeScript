@@ -47,4 +47,5 @@ const obj3: newObj = {
   },
 }
 
-console.log(obj3.func(10, 20))
+// console.log(obj3.func(10, 20))
+let user = {}

@@ -1,0 +1,5 @@
+1)Typescript does Static checking
+
+2) Analyze code as we type thats it
+
+3)Typescript is development tool your project still runs in js 
