@@ -32,3 +32,12 @@ class playerStatus extends player {
 // console.log(`New Height : ${obj.getHeight}`)
 
 const obj1 = new playerStatus(153, 67, false, "male")
+
+// Interview question
+// setter method nothing returns that means we dont need to pass return type of setter method even void also
+
+type obj = {
+  name: string
+  email: string
+  password: string
+}
