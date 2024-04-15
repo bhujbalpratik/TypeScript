@@ -13,3 +13,8 @@ let pratik: user = {
     return 100
   },
 }
+
+interface admin extends user {
+  role: string
+  power: number
+}
