@@ -42,8 +42,10 @@ var playerStatus = /** @class */ (function (_super) {
     }
     return playerStatus;
 }(player));
-// const obj = new player(153, 64, true)
-// console.log(`Default Height : ${obj.getHeight}`)
-// obj.setHeight = 167
-// console.log(`New Height : ${obj.getHeight}`)
-var obj = new playerStatus(153, 67, false, "male");
+var user = {
+    _id: "iewerebjkjesfnkewf",
+    name: "Pratik",
+    email: "pb@gmail.com",
+    password: "password@123",
+};
+console.log("User", user);

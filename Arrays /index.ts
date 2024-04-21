@@ -2,7 +2,7 @@
 
 const Ary2: string[] = ["str", "nope"]
 
-const Ary3: Array<string> = ["newAry", "StringAry", "Ary"]
+const Ary3: Array<string> = ["newAry", "StringAry", "Ary", "384023484"]
 
 const Ary: Array<string | number> = ["Ary", 20, "str", 77, 86]
 
